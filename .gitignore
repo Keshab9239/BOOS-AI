@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+guru_memory.json
+boos_data.json
+battery.log
+battery_state.json
+.env

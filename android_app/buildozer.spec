@@ -15,3 +15,4 @@ android.minapi = 23
 [buildozer]
 log_level = 2
 warn_on_root = 1
+android.archs = arm64-v8a
